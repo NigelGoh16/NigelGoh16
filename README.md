@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nigell.goh@gmail.com**
 
-<h3 align="left">Connect with me: </h3><a href="https://www.linkedin.com/in/nigel-goh-a9593a20a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<h3 align="left">Connect with me: </h3><a href="https://www.linkedin.com/in/nigel-llaneta-goh/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <p align="left">
 </p>
 
