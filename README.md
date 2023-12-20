@@ -1,6 +1,6 @@
 <img src="https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-5.gif" style="object-fit: cover; width: 1240px; height: 300px"/>
 <h1 align="center">Hi 👋, I'm Nigel</h1>
-<h3 align="center">A aspiring data scientist from Malaysia</h3>
+<h3 align="center">Machine learning and data science aficionado from Malaysia</h3>
 
 <img align="right" alt="Loading" width="300" src="https://cdn.pixabay.com/animation/2022/07/29/03/42/03-42-11-849_512.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nigelgoh16&label=Profile%20views&color=0e75b6&style=flat" alt="nigelgoh16" /> </p>
