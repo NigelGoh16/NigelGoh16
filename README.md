@@ -5,9 +5,9 @@
 <img align="right" alt="Loading" width="300" src="https://cdn.pixabay.com/animation/2022/07/29/03/42/03-42-11-849_512.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nigelgoh16&label=Profile%20views&color=0e75b6&style=flat" alt="nigelgoh16" /> </p>
 
-- 🔭 I’m currently working on [Sentiment Analytics Project](https://github.com/NigelGoh16/Youtube_Sentiment_Analysis)
+- 🔭 I’m currently working on [Sentiment Analytics Project]()
 
-- 🌱 I’m currently learning **Advanced Data Science with IBM Specialization**
+- 🌱 I’m currently learning **Web Development with Javascript and Typescript**
 
 - 📫 How to reach me **nigell.goh@gmail.com**
 
